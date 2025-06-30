@@ -1,0 +1,5 @@
+print("今日は何年？")
+year = int(input())
+print("今日は何月？")
+moon = int(input())
+print(year,moon)
